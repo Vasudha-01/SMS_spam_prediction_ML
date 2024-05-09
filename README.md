@@ -16,9 +16,9 @@ This repository contains code for analyzing and classifying SMS messages as spam
 
 ## Usage
 1. **Data**: The dataset used for this analysis is stored in a CSV file named "spam.csv".
-2. **Requirements**: Ensure you have the necessary Python libraries installed, including `pandas`, `numpy`, `scikit-learn`, `nltk`, `wordcloud`, and `seaborn`.
-3. **Execution**: Run the code cells in a Python environment, such as Jupyter Notebook, sequentially to execute each section.
-4. **Model Deployment**: After building the model, you can save it using pickle for deployment in other applications.
+2. **Requirements**: Ensure to have the necessary Python libraries installed, including `pandas`, `numpy`, `scikit-learn`, `nltk`, `wordcloud`, and `seaborn`.
+3. **Execution**: Run the code cells in a Python environment, such as Jupyter Notebook, sequentially to execute each section and PyCharm to run app.py using streamlit.
+4. **Model Deployment**: After building the model, it is saved using pickle for deployment in other applications.
 
 ## Example Messages
 - **Spam Messages**:
